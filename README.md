@@ -86,17 +86,22 @@ git clone https://github.com/NDDimension/Fake-News-Detector-using-ML.git
 cd fake-news-detector/CODE FILE
 ```
 
-2. **Execute**
+2. **Download Dataset**
+```txt
+https://drive.google.com/drive/folders/1uViefNaUP9xhgzR5O4xrAOWYJpuYBOjt
+```   
+
+3. **Execute**
 ```
 app.ipynb
 ```
 
-3. **Run the Fake News Detector**
+4. **Run the Fake News Detector**
 ```bash
-streamlit run app.py
+streamlit run frontend.py
 ```
 
-4. **Paste an article and get your result!**
+5. **Paste an article and get your result!**
 
 
 
