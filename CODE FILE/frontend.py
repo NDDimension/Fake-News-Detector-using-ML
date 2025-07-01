@@ -7,8 +7,8 @@ import os
 st.set_page_config(page_title="📰 Fake News Detector", layout="centered")
 
 # Load model and vectorizer
-vectorizer = joblib.load("../Models/tfidf_vectorizer.jb")
-model = joblib.load("../Models/fake_news_detector.jb")
+vectorizer = joblib.load("tfidf_vectorizer.jb")
+model = joblib.load("fake_news_detector.jb")
 
 # Custom CSS styling
 st.markdown(
