@@ -1,6 +1,10 @@
 
 # 📰 Fake News Detector
 
+### **NOTE !!!**
+This app simply works on the training data I have used. It can not classify lates or live news ; to do that you can use web scraping and train on that data.!!!
+
+
 > ***Unmask the truth, one article at a time.***
 > https://fake-news-detector-using-ml-nddimension.streamlit.app/
 
