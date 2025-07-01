@@ -2,6 +2,7 @@
 # 📰 Fake News Detector
 
 > ***Unmask the truth, one article at a time.***
+> https://fake-news-detector-using-ml-nddimension.streamlit.app/
 
 In an age of viral misinformation, the **Fake News Detector** empowers you to **verify news content with AI**. Whether you're a journalist, researcher, or just a concerned reader — our model helps you **distinguish** between **what's real and what's fake** using machine learning.
 
