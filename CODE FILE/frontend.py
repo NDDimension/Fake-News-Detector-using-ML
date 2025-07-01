@@ -41,7 +41,7 @@ st.markdown(
 )
 
 # Optional: Add a header image
-image = Image.open("../Img/image.png")
+image = Image.open("Img/image.png")
 st.image(image, use_container_width=True)
 
 # Title and subtitle
