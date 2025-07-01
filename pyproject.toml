@@ -1,0 +1,15 @@
+[project]
+name = "fake-news-detector-using-ml"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas",
+    "scikit-learn",
+    "streamlit",
+    "joblib",
+    "numpy>=2.3.1",
+    "ipykernel>=6.29.5",
+    "pip>=25.1.1",
+]
